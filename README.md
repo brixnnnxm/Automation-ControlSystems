@@ -2,4 +2,7 @@
 # Automation-ControlSystems
 All of my Automation and Control Systems projects are here!
 
-🚧 Under Construction – Greatness Loading... 🚀
+## 🚧 Under Construction – Greatness Loading... 🚀
+
+In the meantime, check out my other
+[repositories](https://github.com/brixnnnxm?tab=repositories).
